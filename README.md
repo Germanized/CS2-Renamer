@@ -2,7 +2,7 @@
 
 Welcome to **CS2 Renamer** – the ultimate tool for renaming items in CS2 with style and efficiency. This project allows you to log in to your Steam account, connect to the CS2 backend, and rename items seamlessly.
 
-![CS2 Renamer]([https://example.com/your-banner-image.png](https://i.ibb.co/y088rPZ/Cs2-Nametag-Changer.png))
+https://example.com/your-banner-image.png](https://i.ibb.co/y088rPZ/Cs2-Nametag-Changer.png
 
 ## ✨ Features
 
