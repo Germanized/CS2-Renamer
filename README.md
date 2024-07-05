@@ -21,3 +21,28 @@ Welcome to **CS2 Renamer** – the ultimate tool for renaming items in CS2 with 
    ```bash
    git clone https://https://github.com/Germanized/CS2-Renamer
    cd CS2-Renamer
+Install dependencies:
+## npm install
+
+##  Usage
+Run the script:
+## npm start
+
+then Follow the prompts to log in to your Steam account and rename your items.
+
+## File Structure
+
+CS2-Renamer/
+├── protobufs/
+│   └── cs2/
+│       ├── base_gcmessages.proto
+│       ├── gcsystemmsgs.proto
+│       ├── gcsdk_gcmessages.proto
+│       └── econ_gcmessages.proto
+├── helpers/
+│   ├── Items.js
+│   └── english.js
+├── .gitignore
+├── package.json
+├── README.md
+└── renamer.js
