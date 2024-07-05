@@ -1,0 +1,25 @@
+{
+  "name": "cs2-renamer",
+  "version": "1.0.0",
+  "description": "A tool to rename CS2 items with style and efficiency.",
+  "main": "renamer.js",
+  "scripts": {
+    "start": "node renamer.js"
+  },
+  "author": "Pronhubstar",
+  "license": "MIT",
+  "dependencies": {
+    "steam-user": "^4.19.1",
+    "steam-totp": "^2.1.1",
+    "protobufjs": "^6.11.2"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/your-username/CS2-Renamer.git"
+  },
+  "bugs": {
+    "url": "https://github.com/your-username/CS2-Renamer/issues"
+  },
+  "homepage": "https://github.com/your-username/CS2-Renamer#readme"
+}
